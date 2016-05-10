@@ -21,6 +21,10 @@
       <div class="item active">
         <img src="images/PRCS-teacher-student-slide.jpg" title="Our teachers are highly qualified and our 
 classes are completely in english" alt="Teacher giving student help" >
+<div class="carousel-caption">
+        <h3>Highly qualified teachers</h3>
+        <p>Our teachers attend small groups</p>
+      </div>
       </div>
 
       <div class="item">
