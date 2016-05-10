@@ -25,14 +25,12 @@ classes are completely in english" alt="Teacher giving student help" >
 
       <div class="item">
         <img src="images/PRCS-prekinder-having-fun.jpg" title="We offer a caring, fun and safe enviroment to all of our students" alt="We offer a caring, fun and 
-safe enviroment to all of
-our students" >
+safe enviroment to all of our students" >
       </div>
     
       <div class="item">
         <img src="images/PRCS-student-go-to-best-universities.jpg" title="Our graduates go
-to the best universities." alt="Our graduates go
-to the best universities." >
+to the best universities." alt="Our graduates go to the best universities." >
       </div>
       
     </div>
